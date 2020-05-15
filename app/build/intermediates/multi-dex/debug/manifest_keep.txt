@@ -1,0 +1,3 @@
+# Referenced at C:\Users\Sheraz\Desktop\SMDDemo\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:31
+-keep class com.androidstudio.demosmd.UserClient { <init>(...); }
+

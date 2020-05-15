@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "507801811114",
+    "firebase_url": "https://strange-sun-270108.firebaseio.com",
+    "project_id": "strange-sun-270108",
+    "storage_bucket": "strange-sun-270108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507801811114:android:fd8d4fdc22ead7318db8d3",
+        "android_client_info": {
+          "package_name": "com.androidstudio.demosmd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507801811114-71cjvvbebesh8k9iank7iuren6s6ur5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD12cr4VVPcANxFFxCnnG2l5pl5UT2qqw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507801811114-71cjvvbebesh8k9iank7iuren6s6ur5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
